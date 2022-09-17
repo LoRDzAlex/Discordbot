@@ -1,0 +1,2 @@
+# Discordbot
+DiscordBot for ValorantRandomizer
